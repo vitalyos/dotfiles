@@ -1,0 +1,5 @@
+[user]
+	name = vitalyos
+	email = vitalyos@users.noreply.github.com
+[core]
+	editor = nvim
